@@ -1,6 +1,6 @@
-# VanillaEnhanced
+# SandboxExperience
 
-This mod adds a few things to enhance the Vanilla experience.  
+This mod adds a few things to enhance the Vanilla experience and the Sandbox feeling. Based on VanillaEnhanced. 
 *Still in development*
 
 ## V6.0 only, there is no backwards compatibility for older versions
